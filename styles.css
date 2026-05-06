@@ -1,0 +1,23 @@
+body {
+    font: 'Lucida Console';
+    color: rgb(137, 87, 53);   
+
+}
+
+h1 {
+    font: 'Lucida Handwriting', serif;
+    background-color: pink;
+    border: dotted rgb(137, 87, 53);   
+    color: palegoldenrod;
+    text-align: center;  
+ 
+}
+
+h2 {
+    background-color: palegoldenrod;
+    color: pink;
+}
+
+a {
+    color: rgb(137, 87, 53);   
+}
